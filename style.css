@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+}
